@@ -1,1 +1,49 @@
+<!DOCTYPE html>
+<html lang="et">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae - Peeter Tamm</title>
+</head>
+<body>
 
+    <h1>Curriculum Vitae</h1>
+
+    <img src="profiilipilt.jpg" alt="Väljamõeldud tegelase Peeter Tamm portree" height="200">
+
+    <h2>Isiklik informatsioon</h2>
+    <ul>
+        <li><strong>Nimi:</strong> Peeter Tamm</li>
+        <li><strong>Sünniaeg:</strong> 12.oktoober 1975</li>
+        <li><strong>E-post:</strong> peeter.tamm@naide.ee</li>
+        <li><strong>Telefon:</strong> +372 5123 4567</li>
+    </ul>
+
+    <hr>
+
+    <h2>Haridus</h2>
+    <ul>
+        <li><strong>2020–2023:</strong> Tallinna Tehnikaülikool, Informaatika (bakalaureus)</li>
+        <li><strong>2017–2020:</strong> Haapsalu Kutsehariduskeskus, IT-süsteemide nooremspetsialist</li>
+        <li><strong>2008–2017:</strong> Läänemaa Ühisgümnaasium</li>
+    </ul>
+
+    <hr>
+
+    <h2>Töökogemus</h2>
+    <ul>
+        <li><strong>2023–tänaseni:</strong> Noorem tarkvaraarendaja, OÜ DigiLahendused</li>
+        <li><strong>2021–2023:</strong> IT-tugi ja võrguadministraator, AS Võrgumeistrid</li>
+    </ul>
+
+    <hr>
+
+    <h2>Hobid</h2>
+    <ul>
+        <li>Jalgrattasõit ja matkamine</li>
+        <li>Digifotograafia</li>
+        <li>Elektroonika ja robootikaprojektid</li>
+    </ul>
+
+</body>
+</html>
